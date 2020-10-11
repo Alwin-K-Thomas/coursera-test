@@ -1,2 +1,3 @@
 # coursera-test
-Coursera Test Repository
+
+My work for the Full Stack Developement course from Coursera
